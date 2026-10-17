@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/opensearch-project/opensearch-py/commit/f09f8b04e82191e911c7a1097e338036d089cc6d",
       "git:hexsha": "f09f8b04e82191e911c7a1097e338036d089cc6d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T22:04:20.217970+00:00"
     },
     {
       "@id": "https://repolex.ai/r/opensearch-project/opensearch-py/commit/e4d0cc626725166303e8ee4525b8004b428fd55f",
